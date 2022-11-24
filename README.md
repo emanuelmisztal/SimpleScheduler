@@ -1,4 +1,4 @@
-# mendix-simple-scheduler
+# simple-scheduler
 
 A simple scheduler widget for Mendix. This scheduler is based on [react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler).
 
