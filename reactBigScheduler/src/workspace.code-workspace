@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "reactBigScheduler",
+			"path": ".."
+		},
+		{
+			"name": "webpack",
+			"path": "..\\..\\..\\react-big-scheduler\\webpack"
+		}
+	],
+	"settings": {}
+}
