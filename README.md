@@ -12,8 +12,11 @@ With this widget you can define resources and events for the resources. You can 
 
 ## How to use
 
-Note that the widget itself can be implemented however you see fit. But to understand how the widget works this readme can be used as a example. This widget assumes a certain structure to your data. Events belong to single resources, which in turn are grouped uniquely into groups. If your data structure differs significantly from this. <br/>
-![Example Data Structure](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(41).png "Example Data Structure")
+Note that the widget itself can be implemented however you see fit. But to understand how the widget works this readme can be used as a example. This widget assumes a certain structure to your data. Events belong to single resources, which in turn are grouped uniquely into groups. An example is given below. \\
+Example Data Structure
+![Example Data Structure](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(41).png) \
+
+
 
 ## Demo application
 
