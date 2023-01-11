@@ -12,7 +12,7 @@ With this widget you can define resources and events for the resources. You can 
 
 ## How to use
 
-Note that the widget itself can be implemented however you see fit. But to understand how the widget works this readme can be used as a example. <br /><br />
+Note that the widget itself can be implemented however you see fit. But to understand how the widget works, this readme can be used as an example. <br /><br />
 
 This widget assumes a certain structure to your data. Events belong to single resources. The following is just an basic example for a functioning widget. <br /><br />
 
