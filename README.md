@@ -12,7 +12,7 @@ With this widget you can define resources and events for the resources. You can 
 
 ## How to use
 
-See readme in module SimpleScheduler.mpk. The widget can also be found in th module.
+See readme in module SimpleScheduler.mpk. The widget can also be found in the module.
 
 ## Demo application
 
