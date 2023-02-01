@@ -67,6 +67,23 @@ Import Mapping for needed JSON
 JSON
 ![ConversionStringDate](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(55).png) <br />
 
+The following screenshots show an example for the configuration of the properties of the widget:
+
+Page
+![ConversionStringDate](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(57).png) <br />
+
+Resources Properties
+![ConversionStringDate](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(58).png) <br />
+
+Events Properties
+![ConversionStringDate](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(59).png) <br />
+
+Event Design Properties
+![ConversionStringDate](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(60).png) <br />
+
+Calender Design Properties
+![ConversionStringDate](https://github.com/DevrimBaran/SimpleScheduler/blob/main/screenshots/Screenshot%20(61).png) <br />
+
 ## Demo application
 
 https://simplescheduler100-sandbox.mxapps.io/
