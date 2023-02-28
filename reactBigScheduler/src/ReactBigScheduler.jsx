@@ -167,6 +167,7 @@ class ReactBigScheduler extends Component {
                                     onScrollBottom={this.onScrollBottom}
                                     toggleExpandFunc={this.toggleExpandFunc}
                                     handleChange={this.handleChange}
+                                    eventItemClick={this.eventClicked}
                                 />
                             </div>
                         </div>
@@ -217,7 +218,16 @@ class ReactBigScheduler extends Component {
     }
 
     eventClicked = (schedulerData, event) => {
-        alert(`You just clicked an event: {id: ${event.id}, title: ${event.title}}`);
+        const widgetActions = this.props.widgetActions;
+        let changeJSON = {};
+        changeJSON = {
+            action: "VIEW",
+            eventID: event.id.toString()
+        };
+        widgetActions.setValue(JSON.stringify(changeJSON));
+        this.setState({
+            viewModel: schedulerData
+        });
     };
 
     newEvent = (schedulerData, slotId, slotName, start, end, type, item) => {

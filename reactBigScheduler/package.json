@@ -10,8 +10,8 @@
   },
   "license": "Apache-2.0",
   "config": {
-    "projectPath": "C:\\\\Users\\\\bardem6g\\\\Documents\\\\Mendix\\\\WidgetExample-main",
-    "mendixHost": "http://localhost:8080",
+    "projectPath": "../../../",
+    "mendixHost": "http://localhost:8082",
     "developmentPort": 3000
   },
   "packagePath": "mendix",
